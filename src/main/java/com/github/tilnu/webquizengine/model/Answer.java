@@ -1,4 +1,4 @@
-package com.github.tilnu.webquizengine.Model;
+package com.github.tilnu.webquizengine.model;
 
 import org.springframework.stereotype.Component;
 

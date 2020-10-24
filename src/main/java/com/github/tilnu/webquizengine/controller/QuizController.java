@@ -1,10 +1,10 @@
-package com.github.tilnu.webquizengine.Controller;
+package com.github.tilnu.webquizengine.controller;
 
-import com.github.tilnu.webquizengine.Model.Answer;
-import com.github.tilnu.webquizengine.Model.Feedback;
-import com.github.tilnu.webquizengine.Model.Quiz;
-import com.github.tilnu.webquizengine.Repository.QuizRepository;
-import com.github.tilnu.webquizengine.Service.FeedbackBuilder;
+import com.github.tilnu.webquizengine.model.Answer;
+import com.github.tilnu.webquizengine.model.Feedback;
+import com.github.tilnu.webquizengine.model.Quiz;
+import com.github.tilnu.webquizengine.repository.QuizRepository;
+import com.github.tilnu.webquizengine.service.FeedbackBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

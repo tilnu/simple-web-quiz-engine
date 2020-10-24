@@ -1,4 +1,4 @@
-package com.github.tilnu.webquizengine.Model;
+package com.github.tilnu.webquizengine.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

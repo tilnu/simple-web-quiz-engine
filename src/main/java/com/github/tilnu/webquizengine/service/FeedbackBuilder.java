@@ -1,6 +1,6 @@
-package com.github.tilnu.webquizengine.Service;
+package com.github.tilnu.webquizengine.service;
 
-import com.github.tilnu.webquizengine.Model.Feedback;
+import com.github.tilnu.webquizengine.model.Feedback;
 
 public class FeedbackBuilder {
     public static Feedback wrongAnswer() {
